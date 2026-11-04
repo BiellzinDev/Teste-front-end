@@ -1,0 +1,19 @@
+@import "tailwindcss";
+:root{
+    --fundo-header:#ffffff;
+    --text-blue:#3019b2;
+    --text-p-header:#9f9f9f;
+    --bg-input:#f6f5f2;
+    --border-header:#f0f0f0;
+    --text-yellow:#f7ca11;
+    --fundo-nav:#f4f4f4;
+    --shadow-box:box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    --text-card:#454545;
+    --back:linear-gradient(100deg,rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 85%);
+    --listra:#dedede;
+    --text-blue-prod:#3442b5;
+    --text-gray-prod:#3b3b3b;
+    --borda-prod:#bdbdbd;
+    --text-frete:#3442b5;
+    --text-price:#3f3f40;
+}
