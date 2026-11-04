@@ -1,5 +1,5 @@
 import React from 'react'
-const imgLogo = './src/assets/Logo.svg'
+const imgLogo = './public/assets/Logo.svg'
 import '../index.css'
 
 const Marcas = () => {

@@ -1,4 +1,4 @@
-const imgHero = './src/assets/hero.jpg'
+const imgHero = './public/assets/hero.jpg'
 import '../index.css'
 
 const Hero = () => {
