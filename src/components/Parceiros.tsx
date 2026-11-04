@@ -1,4 +1,4 @@
-const imgLojaApple = './public/assets/loja-apple.svg'
+const imgLojaApple = '/assets/loja-apple.svg'
 import '../index.css'
 
 const Parceiros = () => {
